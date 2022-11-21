@@ -1,4 +1,4 @@
-## Comfortable development
+## Development
 
 ```bash
 git clone --depth 1 https://github.com/velmurugan0411/nestjs-api.git my-nest-api
