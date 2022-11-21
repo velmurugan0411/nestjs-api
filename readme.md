@@ -18,3 +18,7 @@ npm run seed:run
 
 npm run start:dev
 ```
+
+## Links
+
+- Swagger: http://localhost:3000/docs
